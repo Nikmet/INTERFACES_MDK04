@@ -1,6 +1,6 @@
-import Intefaces.Printable;
+package Exesize1;
 
-import java.io.Console;
+import Exesize1.Intefaces.Printable;
 
 public class Book implements Printable {
 

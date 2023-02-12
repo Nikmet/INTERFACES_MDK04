@@ -1,4 +1,6 @@
-import Intefaces.Printable;
+package Exesize1;
+
+import Exesize1.Intefaces.Printable;
 
 public class Magazine implements Printable {
 
