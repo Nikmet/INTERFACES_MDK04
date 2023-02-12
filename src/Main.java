@@ -15,5 +15,11 @@ public class Main {
         for (Printable print : printable){
             print.print();
         }
+
+        System.out.println();
+        Magazine.printMagazines(printable);
+
+        System.out.println();
+        Book.printBooks(printable);
     }
 }
